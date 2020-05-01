@@ -98,7 +98,6 @@ public class JobData {
                     jobs.add(row);
                     break;
                 }
-
             }
         }
         return jobs;
